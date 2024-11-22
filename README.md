@@ -25,7 +25,8 @@ cd ~/BIO312-Extra-Credit/gene
 **Download the query protein**
 
 Download the query protein using the following command:
-```ncbi-acc-download -F fasta -m protein "NP_008986.2" 
+```
+ncbi-acc-download -F fasta -m protein "NP_008986.2" 
 ```
 
 **Perform the BLAST search**
