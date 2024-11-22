@@ -3,5 +3,5 @@ Final Repository
 
 Clone Repository
 ```
-git clone https://github.com/BIO312-Extra-Credit
+git clone https://github.com/s3-khe/BIO312-Extra-Credit.git
 ```
