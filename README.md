@@ -2,7 +2,7 @@
 Final Repository
 
 ## Clone Repository
-** You only need to do this ONE time. **
+**You only need to do this ONE time.**
 
 On the command line, clone the lab 3 repository.
 ```
