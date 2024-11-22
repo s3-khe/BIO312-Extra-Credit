@@ -41,7 +41,8 @@ blastp -db ../allprotein.fas -query NP_008986.2.fa -outfmt 0 -max_hsps 1 -o ut g
 This command creates a more detailed and easier-to-process output of the same analysis. The -outfmt flag specifies a particular output format that will be useful for our analysis. 
 
 Type in the following command:
-```blastp -db ../allprotein.fas -query NP_008986.2.fa -outfmt "6 sseqid pident length mismatch gapopen evalue bitscore pident stitle" -max_hsps 1 -out gene.blastp.detail.out
+```
+blastp -db ../allprotein.fas -query NP_008986.2.fa -outfmt "6 sseqid pident length mismatch gapopen evalue bitscore pident stitle" -max_hsps 1 -out gene.blastp.detail.out
 ```
 
 Take a look at the output in gene.blastp.detail.out using the less -S command:
