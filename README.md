@@ -126,7 +126,7 @@ alv -kli --majority ~/lab04-$MYGIT/gene/gene.homologs.al.fas | less -RS
 
 Use the R package msa and a script to print your alignment to a large pdf file that can be inspected with ease. Run this Rscript for printing the alignment:
 ```
- Rscript --vanilla ~/lab04-$MYGIT/plotMSA.R  ~/lab04-$MYGIT/globins/globins.homologs.al.fas
+Rscript --vanilla ~/lab04-$MYGIT/plotMSA.R  ~/lab04-$MYGIT/gene/gene.homologs.al.fas
 ```
 
 If the above command doesn't work, use the following alternative command:
