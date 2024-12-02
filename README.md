@@ -14,6 +14,16 @@ Use the command below to save the GitHub username as a variable named MYGIT.
 MYGIT="BIO312-Extra-Credit"
 ```
 
+Check that the correct variable is stored in MYGIT using the following command:
+```
+echo $MYGIT
+```
+
+Store MYGIT variable for future uses, such as opening a new terminal
+```
+echo "export MYGIT=$MYGIT" >> ~/.bashrc
+```
+
 ## 1. BLAST the protein (POLR3A RNA polymerase III subunit A)
 **Create a new directory**
 
