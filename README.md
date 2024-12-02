@@ -4,14 +4,14 @@ Final Repository
 ## Clone Repository
 **You only need to do this ONE time.**
 
-Use the command below to save the GitHub username as a variable named MYGIT.
-```
-MYGIT="BIO312-Extra-Credit"
-```
-
 On the command line, clone the lab repository.
 ```
 git clone https://github.com/s3-khe/BIO312-Extra-Credit.git
+```
+
+Use the command below to save the GitHub username as a variable named MYGIT.
+```
+MYGIT="BIO312-Extra-Credit"
 ```
 
 ## 1. BLAST the protein (POLR3A RNA polymerase III subunit A)
